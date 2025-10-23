@@ -1,0 +1,1 @@
+Anda perlu menyimpan gambar dari attachment secara manual ke lokasi ini karena saya tidak dapat mengambil gambar secara langsung dari attachment dan menyimpannya sebagai file. Harap simpan foto Anda dari attachment dengan nama 'gw.jpg' ke folder ini.
