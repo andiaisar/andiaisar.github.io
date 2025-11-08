@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SavEat - Aplikasi Mobile Pengelola Bahan Makanan & Resep Cerdas"
-date: 2025-11-08 10:00:00 +0700
+date: 2024-11-08 10:00:00 +0700
 categories: [Mobile Development, Android]
 tags: [android, java, sqlite, api, mobile-app, food-management, ai-chatbot, gemini-ai, recipe-app]
 image:
