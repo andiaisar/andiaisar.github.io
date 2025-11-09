@@ -5,7 +5,7 @@ date: 2024-11-08 10:00:00 +0700
 categories: [Mobile Development, Android]
 tags: [android, java, sqlite, api, mobile-app, food-management, ai-chatbot, gemini-ai, recipe-app]
 image:
-  path: /assets/img/saveat.jpg
+  path: /assets/img/saveat.jpeg
   alt: SavEat - Smart Food Management App
 ---
 
