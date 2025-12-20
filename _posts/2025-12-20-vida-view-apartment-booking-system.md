@@ -5,7 +5,7 @@ date: 2025-12-20 14:00:00 +0800
 categories: [Web Development, Fullstack]
 tags: [react, flask, python, fullstack, jwt, mysql, tailwind, zustand, booking-system, apartment]
 image:
-  path: /assets/img/vida-view.png
+  path: /assets/img/VidaView.png
   alt: Vida View Apartment Booking System
 ---
 
