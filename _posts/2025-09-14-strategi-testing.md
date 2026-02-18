@@ -4,6 +4,7 @@ date: 2023-10-22 11:23:54
 categories: [Software Testing and Quality Assurance]
 tags: [STQA]
 image: /assets/img/k1.png
+published: false
 ---
 
 # Strategi Testing Perangkat Lunak

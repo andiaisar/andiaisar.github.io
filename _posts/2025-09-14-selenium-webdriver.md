@@ -4,6 +4,7 @@ date: 2025-10-22 15:05:01 +0800
 categories: [Software Testing and Quality Assurance]
 tags: [Selenium, WebDriver, Automation Testing, Python, Web Testing]
 image: /assets/img/k7.png
+published: false
 
 ---
 # Pengantar Selenium WebDriver

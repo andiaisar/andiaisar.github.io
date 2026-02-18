@@ -4,6 +4,7 @@ date: 2025-10-22 14:58:39 +0800
 categories: [Software Testing and Quality Assurance]
 tags: [Unit Testing, TDD, AAA Pattern, JUnit, Pytest, Code Quality]
 image: /assets/img/k5.png
+published: false
 ---
 
 # Unit Testing: Fondasi Pengujian Perangkat Lunak

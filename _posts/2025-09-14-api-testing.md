@@ -4,6 +4,7 @@ date: 2025-10-22 15:02:05 +0800
 categories: [Software Testing and Quality Assurance]
 tags: [API Testing, Postman, SOAPUI, Request, Response]
 image: /assets/img/k6.png
+published: false
 ---
 
 # API Testing: Memastikan Fungsionalitas Inti Sistem

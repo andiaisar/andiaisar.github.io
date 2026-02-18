@@ -4,6 +4,7 @@ date: 2025-10-22 14:51:39 +0800
 categories: [Software Testing and Quality Assurance]
 tags: [Testing Plan, Test Strategy, IEEE 829, Software Testing]
 image: /assets/img/k3.png
+published: false
 ---
 
 # Testing Plan (Rencana Pengujian): Acuan Resmi Proses Pengujian

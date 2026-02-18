@@ -4,6 +4,7 @@ date: 2025-10-22 14:55:01 +0800
 categories: [Software Testing and Quality Assurance]
 tags: [Test Scenario, Test Case, Bug Report, Severity, Priority]
 image: /assets/img/k4.png
+published: false
 ---
 
 # Test Scenario, Test Case, dan Bug Report
